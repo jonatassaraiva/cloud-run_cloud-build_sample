@@ -8,4 +8,4 @@ Cloud Run is a fully managed compute platform that enables you to run stateless 
 Cloud Build is a service that runs your builds on Google Cloud. You can import your source code from Cloud Source Repositories, GitHub, or Bitbucket, and perform a build to your specifications in a series of build steps. More information: https://cloud.google.com/cloud-build/docs/
 
 ## About this project
-Este projeto é um códgo simples em NODE.JS que utiliza o Cloud Run para host de uma API e Cloud Build para CI/CD
+This project is a simple code in NODE.JS that uses Cloud Run to host an API and Cloud Build for CI and CD.
