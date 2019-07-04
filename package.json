@@ -1,7 +1,7 @@
 {
   "name": "cloud-run_cloud-build_sample",
   "version": "1.0.0",
-  "description": "",
+  "description": "API NODE.JS sample with Google Cloud Run and Google Cloud Build",
   "scripts": {
     "start": "node src/api.js"
   },
