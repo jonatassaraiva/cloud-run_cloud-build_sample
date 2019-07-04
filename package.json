@@ -1,0 +1,21 @@
+{
+  "name": "cloud-run_cloud-build_sample",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatassaraiva/cloud-run_cloud-build_sample.git"
+  },
+  "author": "Jonatas Saraiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonatassaraiva/cloud-run_cloud-build_sample/issues"
+  },
+  "homepage": "https://github.com/jonatassaraiva/cloud-run_cloud-build_sample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
