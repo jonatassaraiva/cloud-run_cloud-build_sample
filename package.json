@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/jonatassaraiva/cloud-run_cloud-build_sample#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
